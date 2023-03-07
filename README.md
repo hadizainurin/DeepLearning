@@ -1,3 +1,1 @@
-# Installation
-
-1) pip install tensorflow
+# Go directly to HLNet
