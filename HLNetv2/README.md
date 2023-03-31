@@ -11,10 +11,10 @@ Working environment:
     - Create a new project folder (or select your own project folder), cd to the project folder in your terminal, and run the following command:
     ```
     # Before running the command
-    mkdir projectA
-    cd projectA
+    mkdir HLNetv2 (No need this step)
+    cd HLNetv2 (No need this step)
     # Run the command
-    python -m venv HLNet_env
+    python3.9 -m venv HLNet_env
     ```
     - Delete your terminal. Now you should see (HLNet_env) in your terminal. If not restart VSC
     - Check if your environment is working
